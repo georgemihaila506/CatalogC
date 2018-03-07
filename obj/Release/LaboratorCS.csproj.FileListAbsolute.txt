@@ -1,0 +1,10 @@
+c:\users\george\documents\visual studio 2017\Projects\LaboratorCS\LaboratorCS\bin\Release\LaboratorCS.exe.config
+c:\users\george\documents\visual studio 2017\Projects\LaboratorCS\LaboratorCS\bin\Release\LaboratorCS.exe
+c:\users\george\documents\visual studio 2017\Projects\LaboratorCS\LaboratorCS\bin\Release\LaboratorCS.pdb
+c:\users\george\documents\visual studio 2017\Projects\LaboratorCS\LaboratorCS\obj\Release\LaboratorCS.exe
+c:\users\george\documents\visual studio 2017\Projects\LaboratorCS\LaboratorCS\obj\Release\LaboratorCS.pdb
+C:\Users\George\documents\visual studio 2017\Projects\LaboratorCS\LaboratorCS\bin\Release\Dapper.dll
+C:\Users\George\documents\visual studio 2017\Projects\LaboratorCS\LaboratorCS\bin\Release\MySql.Data.dll
+C:\Users\George\documents\visual studio 2017\Projects\LaboratorCS\LaboratorCS\bin\Release\Dapper.xml
+C:\Users\George\documents\visual studio 2017\Projects\LaboratorCS\LaboratorCS\bin\Release\MySql.Data.xml
+C:\Users\George\documents\visual studio 2017\Projects\LaboratorCS\LaboratorCS\obj\Release\LaboratorCS.csprojResolveAssemblyReference.cache
